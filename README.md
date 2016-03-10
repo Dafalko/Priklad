@@ -6,4 +6,6 @@
 - stav praktickej casti: 25%
 - termin odovzdanie prace: 22.4.2016
 
-zmena spravena lokalne
+
+zmena spravena lokalne je ta prava
+
