@@ -5,3 +5,5 @@
 - stav teoretickej casti: 50%
 - stav praktickej casti: 25%
 - termin odovzdanie prace: 22.4.2016
+- 
+zmena spravena v remote repozitari
